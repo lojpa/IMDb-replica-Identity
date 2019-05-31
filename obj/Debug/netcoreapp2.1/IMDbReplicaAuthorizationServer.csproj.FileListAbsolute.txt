@@ -1,0 +1,14 @@
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\bin\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.deps.json
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\bin\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.runtimeconfig.json
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\bin\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.runtimeconfig.dev.json
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\bin\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.dll
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.csprojAssemblyReference.cache
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.csproj.CoreCompileInputs.cache
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.RazorAssemblyInfo.cache
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.RazorAssemblyInfo.cs
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.AssemblyInfoInputs.cache
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.AssemblyInfo.cs
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.RazorTargetAssemblyInfo.cache
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\bin\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.pdb
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.dll
+C:\Users\E5580\source\repos\IMDb-replicaAuthorizationServer\IMDb-replicaAuthorizationServer\obj\Debug\netcoreapp2.1\IMDbReplicaAuthorizationServer.pdb
