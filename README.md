@@ -16,6 +16,7 @@ URL Params
 Required:
 
 headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+
 body: {'username': username, 'password': password, 'grant_type': 'password', 'client_id': 'angular.client', 'client_secret': 'secret'}
 
 Success Response:
